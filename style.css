@@ -14,22 +14,12 @@ a{
 	text-align:center;
 	text-decoration:none;
 }
-.bg {
-  /* The image used */
-  background-image: url("https://i.postimg.cc/59qcnwsN/Msyy7BW.jpg");
 
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 #main-lord{
 	width:100%;
 	hwight:100vh;
-
+	
+	background:url(https://i.postimg.cc/59qcnwsN/Msyy7BW.jpg)cover center no-repeat ,radial-gradient(#FA3F3F, #860F0F, #E05E5E 90%);
 	font-family:var(--font);
 	color:white;
 	font-size:1em;
