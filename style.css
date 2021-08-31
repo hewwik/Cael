@@ -1,5 +1,5 @@
 {
-	background-image: url(https://i.postimg.cc/Ghnjf8gs/bigbgxatspace.png);
+	background:#f8f8f8;
 }
 *{
 	padding:0;
@@ -18,6 +18,7 @@ a{
 #main-lord{
 	width:100%;
 	height:100vh;
+	background:url(https://i.postimg.cc/SRNccjbm/e8bb53c0de10c3f6f1104dfd62c3d792.gif)top left repeat ,radial-gradient(#FA3F3F, #860F0F, #E05E5E 90%);
 	font-family:var(--font);
 	color:white;
 	font-size:1em;
