@@ -1,5 +1,5 @@
 {
-	background:#f8f8f8;
+	background-image: url(https://i.postimg.cc/Ghnjf8gs/bigbgxatspace.png);
 }
 *{
 	padding:0;
@@ -17,9 +17,7 @@ a{
 
 #main-lord{
 	width:100%;
-	hwight:100vh;
-	
-	background-image: url(https://i.postimg.cc/Ghnjf8gs/bigbgxatspace.png);
+	height:100vh;
 	font-family:var(--font);
 	color:white;
 	font-size:1em;
